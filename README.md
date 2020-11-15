@@ -19,3 +19,6 @@ These file provides the training and the validation for the test set
 
 ## Validation 
 The performance measures for this neural network is based on F1 score
+
+## Neural Network
+For any detail you can check the [Notebook]('/Mirko_Lantieri_858278_payments.ipynb')
